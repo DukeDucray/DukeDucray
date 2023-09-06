@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philippe</h1>
 <h3 align="center">A passionate data scientist from Mauritius</h3>
 
-- ⚡ I just completed [**Le Wagon Data Science Bootcamp**](https://www.lewagon.com/data-science-course)
+- ⚡ [**Le Wagon Data Science Bootcamp**](https://www.lewagon.com/data-science-course) Alumni
 
 - 🌱 I’m currently learning **TensorFlow and Keras**
 
